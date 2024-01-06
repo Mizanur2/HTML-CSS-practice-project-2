@@ -201,9 +201,10 @@
     display: block;
     color: #F3F3F3;
     font-size: 18px;
+    background: #151414;
     border-radius: 5px;
     margin-bottom: 10px;
-    border: none;
+    border: 1px solid white;
 
 }
 
